@@ -3,7 +3,7 @@ control model railroad trains with a raspberry pi pico w.
 
 # requirements
 * pi pico w - configured for python
-* [https://www.pishop.us/product/pico-motor-driver-hat/](motor driver hat)
+* [https://www.pishop.us/product/pico-motor-driver-hat](motor driver hat)
 
 # setup
 * copy all files to the files onto the pi pico w
