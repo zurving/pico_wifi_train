@@ -13,5 +13,5 @@ control model railroad trains with a raspberry pi pico w.
 * optionally overwrite the train.png with an image of the same resolution of your train
 
 # usage
-point your browser to [https://pico_train.lan](http://pico_train.lan)
+point your browser to [http://pico_train.lan](http://pico_train.lan)
 
